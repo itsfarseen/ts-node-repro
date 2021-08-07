@@ -1,0 +1,11 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "dist/foo.js",
+  "types": "dist/foo.d.ts",
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
